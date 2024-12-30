@@ -35,6 +35,7 @@
         </li>
         <li>Configure o banco de dados MySQL no arquivo <code>settings.py</code>:
             <div class="highlight">
+                <code>
                     DATABASES = 
                         'default': {
                         'ENGINE': 'django.db.backends.mysql',
@@ -45,6 +46,7 @@
                         'PORT': '3306',
                         }
                     }
+                </code>
             </div>
         </li>
         <li>Execute as migrações:
