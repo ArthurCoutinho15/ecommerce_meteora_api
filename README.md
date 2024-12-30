@@ -1,37 +1,4 @@
 <title>API E-commerce Meteora</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        ul {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-            font-size: 1em;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .highlight {
-            background-color: #f9f9f9;
-            border-left: 4px solid #3498db;
-            padding: 10px;
-            margin: 10px 0;
-        }
-    </style>
 </head>
 <body>
     <h1>API E-commerce Meteora 🛍️</h1>
@@ -69,14 +36,14 @@
         <li>Configure o banco de dados MySQL no arquivo <code>settings.py</code>:
             <div class="highlight">
                 <code>
-                    DATABASES = {<br>
-                        &nbsp;&nbsp;'default': {<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;'ENGINE': 'django.db.backends.mysql',<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;'NAME': 'ecommerce_meteora',<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;'USER': 'seu_usuario',<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;'PASSWORD': 'sua_senha',<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;'HOST': 'localhost',<br>
-                        &nbsp;&nbsp;&nbsp;&nbsp;'PORT': '3306',<br>
+                    DATABASES = 
+                        &nbsp;&nbsp;'default': {
+                        &nbsp;&nbsp;&nbsp;&nbsp;'ENGINE': 'django.db.backends.mysql',
+                        &nbsp;&nbsp;&nbsp;&nbsp;'NAME': 'ecommerce_meteora',
+                        &nbsp;&nbsp;&nbsp;&nbsp;'USER': 'seu_usuario',
+                        &nbsp;&nbsp;&nbsp;&nbsp;'PASSWORD': 'sua_senha',
+                        &nbsp;&nbsp;&nbsp;&nbsp;'HOST': 'localhost',
+                        &nbsp;&nbsp;&nbsp;&nbsp;'PORT': '3306',
                         &nbsp;&nbsp;}<br>
                     }
                 </code>
