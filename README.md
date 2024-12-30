@@ -37,14 +37,14 @@
             <div class="highlight">
                 <code>
                     DATABASES = 
-                        &nbsp;'default': {
-                        &nbsp;'ENGINE': 'django.db.backends.mysql',
-                        &nbsp;'NAME': 'ecommerce_meteora',
-                        &nbsp;'USER': 'seu_usuario',
-                        &nbsp;'PASSWORD': 'sua_senha',
-                        &nbsp;'HOST': 'localhost',
-                        &nbsp;'PORT': '3306',
-                        &nbsp;}
+                        'default': {
+                        'ENGINE': 'django.db.backends.mysql',
+                        'NAME': 'ecommerce_meteora',
+                        'USER': 'seu_usuario',
+                        'PASSWORD': 'sua_senha',
+                        'HOST': 'localhost',
+                        'PORT': '3306',
+                        }
                     }
                 </code>
             </div>
