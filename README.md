@@ -73,7 +73,7 @@
   <h2>Autor</h2>
     <ul>
         <li><strong>Arthur Coutinho</strong></li>
-        <li><a href="https://www.linkedin.com/in/seu-perfil" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/arthur-teles-coutinho-949419236/" target="_blank">LinkedIn</a></li>
         <li><a href="https://github.com/ArthurCoutinho15" target="_blank">GitHub</a></li>
     </ul>
 </body>
