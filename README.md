@@ -1,7 +1,7 @@
-<title>API E-commerce Meteora</title>
+
 </head>
 <body>
-    <h1>API E-commerce Meteora 🛍️</h1>
+    <h1>API E-commerce 🛍️</h1>
     <p>Esta é uma API desenvolvida com <strong>Django Rest Framework</strong> para gerenciar o catálogo de um e-commerce de roupas, permitindo operações seguras e eficientes.</p>
 
   <h2>Funcionalidades</h2>
